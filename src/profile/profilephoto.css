@@ -1,0 +1,10 @@
+.profile {
+    width: 14rem;
+    height: 14rem;
+}
+
+.profile img {
+    width: 100%;
+    height: inherit;
+    border-radius: 12rem;
+}
